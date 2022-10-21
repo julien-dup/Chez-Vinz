@@ -1,0 +1,24 @@
+Responsive : 
+
+One Page
+
+Menu burger ( detection de l'emplacementqcceuil, menu...)
+
+Accueil :
+Logo
+Phrase d'accroche
+Bla bla
+
+Menu : 
+carte dynamique ( création via menu admin)
+
+Historique :
+
+Emplacement :
+
+Contact :
+
+--*-*-*-*-**-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Police Logo : Athletic outfit
+
+QR Code pour le menu

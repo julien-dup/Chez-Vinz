@@ -1,0 +1,33 @@
+[
+    [   "le havre centre ville",
+    "place de l'hôtel de ville" ,
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2591.531106084411!2d0.10581241589822862!3d49.49336366374037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e02f223fc026ad%3A0xada278ed68e50161!2sPl.%20de%20l&#39;H%C3%B4tel%20de%20ville%2C%2076600%20Le%20Havre!5e0!3m2!1sfr!2sfr!4v1666356729442!5m2!1sfr!2sfr"    
+    ,
+    "lundi 10h-14h" ,
+    "mercredi 18h-22h" ,
+    "jeudi 10h-14h"  ],
+    
+    
+    [   "le havre zone industrielle",
+    "4 boulevard léo lagrange", 
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2592.3211734060806!2d0.2885735158978666!3d49.4784398648012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e03657955356b7%3A0x4d7c3e77feddedbe!2sRenault%20Sandouville!5e0!3m2!1sfr!2sfr!4v1666356819944!5m2!1sfr!2sfr" 
+    ,
+    "mardi 10h-14h"  , 
+    "vendredi 10h-14h"  ] ,  
+
+
+    [   "harfleur",
+    "place d'arme "  ,
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2590.8913233474627!2d0.1983155158985813!3d49.505446262881705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e03041a8f9ca17%3A0xa6ff4bb0d86f1c1d!2sPl.%20d&#39;Armes%2C%2076700%20Harfleur!5e0!3m2!1sfr!2sfr!4v1666354988566!5m2!1sfr!2sfr" 
+    ,
+    "lundi 18h-22h", 
+    "mardi 18h-22h"  ] ,
+
+
+    [   "manéglise"
+    , "10 rue paul faivre",
+     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2587.670143157648!2d0.25335081590014963!3d49.56624675855767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e03a2c58da9a05%3A0x6d9e81ca676d34b!2sMairie!5e0!3m2!1sfr!2sfr!4v1666356475929!5m2!1sfr!2sfr" 
+    , 
+    "samdedi 18h-22"  ]     
+]
+
